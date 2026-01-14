@@ -1,5 +1,5 @@
 # SubscriptionTracking-App-MERN-
-A RestFul API to track Subscriptions of the user, also reminding them when to pay it using by emailing them
+A RestFul API to track Subscriptions of the user, also reminding them when to pay it by emailing them
 
 ---
 

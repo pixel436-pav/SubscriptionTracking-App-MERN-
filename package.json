@@ -1,0 +1,30 @@
+{
+  "name": "mysubtrackingapiandfrontend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A RestFul API to track Subscriptions of the user, also reminding them when to pay it using by emailing them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixel436-pav/SubscriptionTracking-App-MERN-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixel436-pav/SubscriptionTracking-App-MERN-/issues"
+  },
+  "homepage": "https://github.com/pixel436-pav/SubscriptionTracking-App-MERN-#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.3",
+    "nodemon": "^3.1.11"
+  }
+}
